@@ -5,7 +5,7 @@ Welcome to the Monty project, a team-based endeavor in C programming focusing on
 
 ## Team Information
 - **Project Name:** Monty
-- **Team Members:** Ip Otakhor (your team)
+- **Team Members:** Ip
 
 ## Project Timeline
 - **Project Start:** December 12, 2023, 6:00 AM
